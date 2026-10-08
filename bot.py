@@ -44,7 +44,7 @@ SESSION_TIMEOUT = 180
 MAINTENANCE_MODE = False
 LOG_CHANNEL_ID  = -1003912638734
 CHANNEL_USERNAME = "@Modxclusiveeee"
-CHANNEL_LINK     = "https://t.me/Modxclusiveeee"
+CHANNEL_LINK     = "https://t.me/+bpNDfTqsM-k4YjY1"
 MUST_JOIN_CHANNEL = True
 
 # Proxy details for Paisabazaar Selenium Automation
